@@ -1,0 +1,182 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.23.2/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Program Files (x86)/CLion 2022.2.3/bin/cmake/win/share/cmake-3.23/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.23.2/CMakeCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Program Files (x86)/CLion 2022.2.3/bin/cmake/win/share/cmake-3.23/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Program Files (x86)/CLion 2022.2.3/bin/cmake/win/share/cmake-3.23/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Program Files (x86)/CLion 2022.2.3/bin/cmake/win/share/cmake-3.23/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Program Files (x86)/CLion 2022.2.3/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Program Files (x86)/CLion 2022.2.3/bin/cmake/win/share/cmake-3.23/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Program Files (x86)/CLion 2022.2.3/bin/cmake/win/share/cmake-3.23/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Program Files (x86)/CLion 2022.2.3/bin/cmake/win/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Program Files (x86)/CLion 2022.2.3/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Program Files (x86)/CLion 2022.2.3/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Program Files (x86)/CLion 2022.2.3/bin/cmake/win/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Program Files (x86)/CLion 2022.2.3/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Program Files (x86)/CLion 2022.2.3/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.23.2/CMakeRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Program Files (x86)/CLion 2022.2.3/bin/cmake/win/share/cmake-3.23/Modules/CMakeRCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Program Files (x86)/CLion 2022.2.3/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-windres.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Program Files (x86)/CLion 2022.2.3/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-C-ABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Program Files (x86)/CLion 2022.2.3/bin/cmake/win/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"path" : "day01/CMakeLists.txt"
+		},
+		{
+			"path" : "day02/CMakeLists.txt"
+		},
+		{
+			"path" : "day03/CMakeLists.txt"
+		},
+		{
+			"path" : "day04/CMakeLists.txt"
+		},
+		{
+			"path" : "day05/CMakeLists.txt"
+		},
+		{
+			"path" : "day06/CMakeLists.txt"
+		},
+		{
+			"path" : "day07/CMakeLists.txt"
+		},
+		{
+			"path" : "day08/CMakeLists.txt"
+		},
+		{
+			"path" : "day09/CMakeLists.txt"
+		},
+		{
+			"path" : "day10/CMakeLists.txt"
+		},
+		{
+			"path" : "day12/CMakeLists.txt"
+		},
+		{
+			"path" : "day13/CMakeLists.txt"
+		},
+		{
+			"path" : "day14/CMakeLists.txt"
+		},
+		{
+			"path" : "day15/CMakeLists.txt"
+		},
+		{
+			"path" : "day16/CMakeLists.txt"
+		},
+		{
+			"path" : "day17/CMakeLists.txt"
+		},
+		{
+			"path" : "day18/CMakeLists.txt"
+		},
+		{
+			"path" : "day19/CMakeLists.txt"
+		},
+		{
+			"path" : "day20/CMakeLists.txt"
+		},
+		{
+			"path" : "task/CMakeLists.txt"
+		},
+		{
+			"path" : "score/CMakeLists.txt"
+		},
+		{
+			"path" : "woo/CMakeLists.txt"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "D:/Study/cproject/study-1/cmake-build-debug",
+		"source" : "D:/Study/cproject/study-1"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

@@ -1,0 +1,13 @@
+# ninja log v5
+2	80	6914317219324880	CMakeFiles/student.dir/score/student.c.obj	5951504b39f9052a
+80	176	6914317220277379	student.exe	3f6cb47f294e033c
+0	78	6914317546387679	CMakeFiles/student.dir/score/student.c.obj	5951504b39f9052a
+79	172	6914317547310093	student.exe	3f6cb47f294e033c
+2	73	6914317872911002	CMakeFiles/student.dir/score/student.c.obj	5951504b39f9052a
+73	165	6914317873823400	student.exe	3f6cb47f294e033c
+2	66	6914318156134370	CMakeFiles/student.dir/score/student.c.obj	5951504b39f9052a
+66	156	6914318157016672	student.exe	3f6cb47f294e033c
+2	70	6914318303204013	CMakeFiles/student.dir/score/student.c.obj	5951504b39f9052a
+71	164	6914318304126443	student.exe	3f6cb47f294e033c
+2	72	6914319095052944	CMakeFiles/student.dir/score/student.c.obj	5951504b39f9052a
+72	163	6914319095945281	student.exe	3f6cb47f294e033c

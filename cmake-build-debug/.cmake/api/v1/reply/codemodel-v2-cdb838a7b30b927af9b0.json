@@ -1,0 +1,349 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "day01",
+					"jsonFile" : "directory-day01-Debug-352e49905ac791d0c723.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "day01"
+				},
+				{
+					"build" : "day02",
+					"jsonFile" : "directory-day02-Debug-47b27a0052426bff552f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "day02"
+				},
+				{
+					"build" : "day03",
+					"jsonFile" : "directory-day03-Debug-30d8f9396e46bbd601af.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "day03"
+				},
+				{
+					"build" : "day04",
+					"jsonFile" : "directory-day04-Debug-c99c0851bf13febb158e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "day04"
+				},
+				{
+					"build" : "day05",
+					"jsonFile" : "directory-day05-Debug-67bdcdca134436807f7a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "day05"
+				},
+				{
+					"build" : "day06",
+					"jsonFile" : "directory-day06-Debug-f5645e4d0e5b4400d8a9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "day06"
+				},
+				{
+					"build" : "day07",
+					"jsonFile" : "directory-day07-Debug-d7400316130af7674f30.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "day07"
+				},
+				{
+					"build" : "day08",
+					"jsonFile" : "directory-day08-Debug-333779f49c3e8e1f782b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "day08"
+				},
+				{
+					"build" : "day09",
+					"jsonFile" : "directory-day09-Debug-da929e4047e86b6151da.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "day09"
+				},
+				{
+					"build" : "day10",
+					"jsonFile" : "directory-day10-Debug-a43e84dc2f3948dfcaf6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "day10"
+				},
+				{
+					"build" : "day12",
+					"jsonFile" : "directory-day12-Debug-2cb0f200a21a49cfb84e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "day12"
+				},
+				{
+					"build" : "day13",
+					"jsonFile" : "directory-day13-Debug-b3bfb1cb0ee219b1f90f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "day13"
+				},
+				{
+					"build" : "day14",
+					"jsonFile" : "directory-day14-Debug-720dbdabfb6ce97d1959.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "day14"
+				},
+				{
+					"build" : "day15",
+					"jsonFile" : "directory-day15-Debug-8c80b319b78521375a03.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "day15"
+				},
+				{
+					"build" : "day16",
+					"jsonFile" : "directory-day16-Debug-e6b136e22dd3d4b61f84.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "day16"
+				},
+				{
+					"build" : "day17",
+					"jsonFile" : "directory-day17-Debug-9f695292edcd5b0604b0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "day17"
+				},
+				{
+					"build" : "day18",
+					"jsonFile" : "directory-day18-Debug-f3930ec2884e7fed474f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "day18"
+				},
+				{
+					"build" : "day19",
+					"jsonFile" : "directory-day19-Debug-e1ff7f7d861d5349ffe9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "day19"
+				},
+				{
+					"build" : "day20",
+					"jsonFile" : "directory-day20-Debug-360b564ef5227dbbf7be.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "day20"
+				},
+				{
+					"build" : "task",
+					"jsonFile" : "directory-task-Debug-0875ac2ae0b506b9df5a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "task"
+				},
+				{
+					"build" : "score",
+					"jsonFile" : "directory-score-Debug-953a1db76e9aaefb998a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "score"
+				},
+				{
+					"build" : "woo",
+					"jsonFile" : "directory-woo-Debug-e6e7d29c2262e05a28d4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "woo"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22
+					],
+					"name" : "study_1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "student::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-student-Debug-8fca17ab848216963749.json",
+					"name" : "student",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Study/cproject/study-1/cmake-build-debug",
+		"source" : "D:/Study/cproject/study-1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

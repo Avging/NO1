@@ -26,5 +26,4 @@ ADD_SUBDIRECTORY(day20)
 ADD_SUBDIRECTORY(task)
 ADD_SUBDIRECTORY(score)
 ADD_SUBDIRECTORY(woo)
-
-add_executable(student score/student.c)
+ADD_SUBDIRECTORY(day21)

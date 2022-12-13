@@ -166,6 +166,9 @@
 		},
 		{
 			"path" : "woo/CMakeLists.txt"
+		},
+		{
+			"path" : "day21/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",

@@ -1,4 +1,3 @@
-D:/Study/cproject/study-1/cmake-build-debug/CMakeFiles/student.dir
 D:/Study/cproject/study-1/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/Study/cproject/study-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 D:/Study/cproject/study-1/cmake-build-debug/day01/CMakeFiles/edit_cache.dir
@@ -45,3 +44,5 @@ D:/Study/cproject/study-1/cmake-build-debug/score/CMakeFiles/edit_cache.dir
 D:/Study/cproject/study-1/cmake-build-debug/score/CMakeFiles/rebuild_cache.dir
 D:/Study/cproject/study-1/cmake-build-debug/woo/CMakeFiles/edit_cache.dir
 D:/Study/cproject/study-1/cmake-build-debug/woo/CMakeFiles/rebuild_cache.dir
+D:/Study/cproject/study-1/cmake-build-debug/day21/CMakeFiles/edit_cache.dir
+D:/Study/cproject/study-1/cmake-build-debug/day21/CMakeFiles/rebuild_cache.dir
